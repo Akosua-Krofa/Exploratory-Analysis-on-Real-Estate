@@ -1,5 +1,34 @@
 # Exploratory-Analysis-on-Real-Estate
 This analysis seeks to create insights into different property types, the associated cost, property assessment among others over the period 2001 to 2020
+Background 
+The Office of Policy and Management maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30 of each year. For each sale record, the file includes town, property address, date of sale, property type (residential, apartment, commercial, industrial, or vacant land), sales price, and property assessment.
+
+Problem Statement:  Exploring Property Assessment and Sales Data for Informed Decision-Making. 
+In our quest for informed decision-making in real estate, we are presented with a comprehensive dataset encompassing various attributes related to property assessment and sales transactions. 
+This dataset includes information such as the assessed value, sale amount, sales ratio, property type, and more, offering a rich source of insights into the real estate landscape.
+
+Objectives 
+1. Assessment Accuracy Evaluate the accuracy of property assessments by comparing assessed 
+values with actual sale amounts, and identify any discrepancies.
+
+2. Market Trends Analyze sales ratios to uncover trends in property market values, 
+understanding how sale amounts relate to the assessed values across different property types and 
+residential classifications.
+
+3. Geographical Analysis Investigate variations in assessed values, sales amounts, and market 
+ratios across different towns, providing a localized understanding of real estate dynamics.
+
+4. Property Type Impact Examine the impact of property type on assessment accuracy and 
+market trends, exploring whether certain types (e.g., residential, commercial) exhibit distinct 
+patterns.
+
+5. Non-Use Code Insights Explore the significance of non-use codes in property assessment, 
+investigating how these codes influence assessed values and sales transactions.
+
+6. Assessor and OPM Remarks Analyze remarks provided by assessors and the Office of Policy 
+and Management (OPM) to identify factors influencing assessment decisions and potential areas 
+for improvement.
+
 The data provided has 997213 rows × 14 columns
 
 The data provides the following columns: Serial Number', 'List Year', 'Date Recorded', 'Town', 'Address', 'Assessed Value', 'Sale Amount', 'Sales Ratio', 'Property Type','Residential Type', 'Non Use Code', 'Assessor Remarks', 'OPM remarks', 'Location'
