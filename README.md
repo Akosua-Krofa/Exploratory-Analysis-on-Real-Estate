@@ -32,7 +32,8 @@ for improvement.
 The data provided has 997213 rows × 14 columns
 
 The data provides the following columns: Serial Number', 'List Year', 'Date Recorded', 'Town', 'Address', 'Assessed Value', 'Sale Amount', 'Sales Ratio', 'Property Type','Residential Type', 'Non Use Code', 'Assessor Remarks', 'OPM remarks', 'Location'
-The information provided shows that serial number, List Year, Date recorded, Town, Address, Assessed value, Sale Amount and Sales Ratio do not have any missing values, However the remaining data variables i.e.Property Type, Residential Type, Non use code, Assessor Remarks, OPM remarks and Location all have missing values with OPM remarks recording the highest missing values of 987,279
+The information provided shows that serial number, List Year, Town,  Assessed value, Sale Amount and Sales Ratio do not have any missing values,
+However the remaining data variables i.e.Date recorded, Address,Property Type, Residential Type, Non use code, Assessor Remarks, OPM remarks and Location all have missing values with OPM remarks recording the highest missing values of 987,279 and date recorded just 2 missing values.
 The numerical columns in the data provided are the following 'Serial Number', 'List Year', 'Assessed Value', 'Sale Amount', 'Sales Ratio'
 
 Missing values for Property Type, Residential Type, Assessor Remarks, OPM remarks, Address, DateRecorded, Location and Non Use Code were replaced using the mode method for the null values
