@@ -68,7 +68,7 @@ The positive correlation coefficient between Non Use Code and Sale Amount sugges
 It can be seen that among the property types, more of the single family property type was constructed as seen from the propert count chart. Again, the public utility type was the least constructed and hence the least available on the market - this maybe as a result of high cost incurred for the construction. Interestingly from the non use code, the data shows that after the commercial property type, the single family property type is the next least patronized while the four family property type is most patronized as it has the least non use code. To increase revenue, price discrimination can be applied to the four family property type so this can be sold at a premium as there is high demand. On the other hand to encourage patronage of the commercial property type, discounts or promotions can be offered to make this property type more attractive.
 The data shows that in 2005 the highest number of property purchases was recorded. From 2007 to 2017 the data records very low property purchase figures. This was the period where the effects of the global financial crisis was still being felt. This shows that in periods of financial instability the housing/property sector is negatively affected. As a precautionary measure - flexible payment structures can be put in place during times of financial instability to encourage patronage. Moratorium on repayment can also be introduced to give housing owners a financial breather
 
-# Challenges faced
+## Challenges Faced
 It took a long while to figure out the insight required and what codes needed to be generated to derive the necessary insights.
 
 
